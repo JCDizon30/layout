@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    width: 1250px;
+    background-color: rgb(118, 224, 118);
+    margin-top: 100px;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: solid rgb(0, 136, 0) 5px;
+}
+
+.box1 {
+   background-color: aqua; 
+   width: 1200px;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   border: solid rgb(47, 95, 217) 5px;
+}
+
+.a1 {
+    background-color: rgb(219, 127, 127);
+    width: 375px;
+    height: 100px;
+    border: solid rgb(210, 67, 67) 5px;
+}
+
+.a2 {
+    background-color: rgb(219, 127, 127);
+    width: 375px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid rgb(210, 67, 67) 5px;
+}
+
+.a2-1 {
+    background-color: rgb(202, 187, 187);
+    width: 175px;
+    height: 75px;
+    border: solid red 5px;
+}
+.a2-2 {
+    background-color: rgb(202, 187, 187);
+    width: 175px;
+    height: 75px;
+    border: solid red 5px;
+}
+
+.a3 {
+    background-color: rgb(219, 127, 127);
+    width: 375px;
+    height: 100px;
+    border: solid rgb(210, 67, 67) 5px;
+}
+
+
+
+
+
+.box2 {
+    width: 1200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.c1 {
+    background-color: rgb(187, 63, 63);
+    width: 590px;
+    height: 300px;
+    border: solid rgb(252, 0, 0) 5px;
+}
+
+.c2 {
+    width: 590px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.d1 {
+    background-color: rgb(187, 63, 63);
+    width: 590px;
+    height: 145px;
+    border: solid rgb(252, 0, 0) 5px;
+}
+
+.d2 {
+    background-color: rgb(187, 63, 63);
+    width: 590px;
+    height: 145px;
+    border: solid rgb(252, 0, 0) 5px;
+}
+
+
+
+
+
+.box3 {
+    background-color: aqua; 
+    width: 1200px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: solid rgb(47, 95, 217) 5px;
+ }
+ 
+ .b1 {
+    background-color: rgb(68, 138, 213);
+    width: 375px;
+    height: 100px;
+    border: solid rgb(0, 104, 215) 5px;
+ }
+
+ .b2 {
+    background-color: rgb(219, 127, 127);
+    width: 187px;
+    height: 100px;
+    border: solid rgb(210, 67, 67) 5px;
+ }
+
+ .b3 {
+    background-color: rgb(219, 127, 127);
+    width: 187px;
+    height: 100px;
+    border: solid rgb(210, 67, 67) 5px;
+ }
+
+ .b4 {
+    background-color: rgb(68, 138, 213);
+    width: 375px;
+    height: 100px;
+    border: solid rgb(0, 104, 215) 5px;
+ }
